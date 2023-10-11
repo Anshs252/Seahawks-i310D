@@ -3,7 +3,7 @@ Goal:
 The objective of this project is to examine the frequency of revisions made on Wikipedia since December, 2021. The data will be collected, transformed, and visualized to reveal any intriguing patterns or insights regarding the page edits.
 
 # API Links
-Wikiemedia rest API: https://www.mediawiki.org/wiki/API:Main_page
+Wikiemedia rest API: https://wikimedia.org/api/rest_v1/
 Pandas: https://pandas.pydata.org/docs/
 Mathplotlib: https://matplotlib.org/stable/users/index.html
 Requests: https://docs.python-requests.org/en/latest/
